@@ -1,6 +1,6 @@
 {
   "name": "base-convert",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "hex2dec,dec2hex e.g.",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,11 @@
   "dependencies": {
     "bindings": "~1.2.1",
     "nan": "~1.4.1"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.8.0",
+    "expect.js": "~0.3.1",
+    "istanbul": "~0.3.5",
+    "mocha": "~2.1.0"
   }
 }

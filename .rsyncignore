@@ -1,0 +1,6 @@
+.git
+.idea
+out
+node_modules
+tests
+.rsyncignore
