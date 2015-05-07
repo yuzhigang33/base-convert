@@ -23,7 +23,7 @@
   "homepage": "https://github.com/yuzhigang33/base-convert",
   "dependencies": {
     "bindings": "~1.2.1",
-    "nan": "~1.4.1"
+    "nan": "^1.8"
   },
   "devDependencies": {
     "coffee-script": "~1.8.0",
