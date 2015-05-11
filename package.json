@@ -1,6 +1,6 @@
 {
   "name": "base-convert",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "hex2dec,dec2hex e.g.",
   "main": "index.js",
   "scripts": {
